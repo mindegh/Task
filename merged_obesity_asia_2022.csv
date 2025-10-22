@@ -1,0 +1,21 @@
+country,iso3,obesity_rate,gdp_pc_usd,tertiary_share,urban_rate
+China,CHN,6.2,12500,27.5,61.0
+Japan,JPN,4.3,40250,50.2,91.8
+India,IND,3.8,2100,12.4,48.6
+"Korea, Republic of",KOR,5.4,34500,49.0,82.3
+Thailand,THA,9.1,7000,30.1,54.8
+Malaysia,MYS,15.6,11200,45.3,78.2
+Vietnam,VNM,8.1,4300,29.4,39.6
+Indonesia,IDN,7.8,5200,36.1,57.2
+Philippines,PHL,10.3,4200,37.8,47.1
+Singapore,SGP,8.2,74000,88.0,100.0
+Pakistan,PAK,9.0,1800,10.5,37.5
+Bangladesh,BGD,5.1,2500,13.2,39.4
+Nepal,NPL,4.4,1300,15.1,21.4
+Sri Lanka,LKA,7.5,4100,21.3,19.6
+Iran,IRN,23.1,6900,54.0,76.1
+Saudi Arabia,SAU,28.3,27900,64.0,83.2
+United Arab Emirates,ARE,30.1,43600,70.5,87.0
+Israel,ISR,27.5,54100,64.8,92.5
+Turkey,TUR,32.1,10600,54.2,77.9
+Mongolia,MNG,21.0,5000,45.6,68.5
